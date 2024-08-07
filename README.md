@@ -24,7 +24,7 @@ To set up the project locally, follow these steps:
 
 2. **Navigate to the project directory:**
     ```sh
-    cd Top-Courses-Filter-Display-App
+    cd react-testimonials-carousel
     ```
 
 3. **Install the required packages:**
