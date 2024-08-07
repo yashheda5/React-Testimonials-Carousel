@@ -5,12 +5,12 @@ Welcome to the **React Testimonials Carousel**! This interactive and responsive 
 ## 🎯 Live Demo
 
 Check out the live demo of the app hosted on Vercel:  
-[Top Courses Filter & Display App Live Demo](https://top-courses-filter-display-app.vercel.app/)
+[React Testimonials Carousel Live Demo](https://top-courses-filter-display-app.vercel.app/)
 
 ## 📦 Direct Download
 
 Download the latest version of the project as a ZIP file:  
-[Download ZIP](https://github.com/yashheda5/Top-Courses-Filter-Display-App/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/yashheda5/React-Testimonials-Carousel/archive/refs/heads/main.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**  
    Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yashheda5/Top-Courses-Filter-Display-App.git
+   git clone https://github.com/yashheda5/React-Testimonials-Carousel.git
     ```
 
 2. **Navigate to the project directory:**
