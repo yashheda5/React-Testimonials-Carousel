@@ -5,7 +5,7 @@ Welcome to the **React Testimonials Carousel**! This interactive and responsive 
 ## 🎯 Live Demo
 
 Check out the live demo of the app hosted on Vercel:  
-[React Testimonials Carousel Live Demo](https://top-courses-filter-display-app.vercel.app/)
+[React Testimonials Carousel Live Demo](https://react-testimonials-carousel.vercel.app/)
 
 ## 📦 Direct Download
 
